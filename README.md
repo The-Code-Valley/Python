@@ -1,2 +1,2 @@
 # Python
-In this repo you can examples of Python programs for practice!
+In this repo you can add examples of Python for practice!
